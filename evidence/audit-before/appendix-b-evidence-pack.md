@@ -1,6 +1,7 @@
 # Appendix B — Evidence Pack
 
-**File:** `docs/appendix-b-evidence-pack.md`
+**File:** `evidence/audit-before/appendix-b-evidence-pack.md`
+
 **Repo:** AfterCastAI-Greenfield-Cloud-Migration-and-Compliance/
 
 **Appendix:** B — Evidence Pack
