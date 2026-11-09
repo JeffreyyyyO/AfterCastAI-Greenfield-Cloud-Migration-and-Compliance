@@ -82,4 +82,4 @@ Building the multi-account guardrails and corporate identity store before worklo
 
 ### Documents
 
-[Phase 1 Introduction](./docs/phases/phase-01-organization-identity.md)
+[Coming Soon...](./docs/phases/phase-01-organization-identity.md)
