@@ -78,7 +78,7 @@ The forensic audit of the company’s current business environment. A documented
 
 ### Description
 
-Building the multi-account guardrails and corporate identity store before workloads
+This phase establishes the organizational control plane, corporate identity, and governance foundation for the After Architecture. It replaces the uncontrolled personal accounts of the Before Architecture with a strict, centrally managed AWS Landing Zone.
 
 ### Documents
 
