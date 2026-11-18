@@ -13,7 +13,7 @@
 
 **Execution:** This lab simulation project was undertaken for educational and exhibition purposes only. The project result is not an active enterprise deployment. It was executed by me, using hardware and software tools I own, aligning with best practices to the best of my ability. My own accounts on cloud, code, and office platforms were used to execute all configuration and documentation tasks. The title, premise and goals of this project were ideated by me.
 
-**Artificial Intelligence:** LLM tools **Meta AI** and **Gemini** were used to generate simulated contexts, combine project objectives, reiterate project structure and provide technical steps. I interrogated the results using official regulation documentation to ensure accuracy.
+**Artificial Intelligence:** LLM tools **Meta AI** and **Gemini** were used to generate simulated contexts, combine project objectives, reiterate project task structure and provide technical steps. I interrogated the results using official regulation documentation to ensure compliance accuracy.
 
 **Organizations & Identities:** All human identities in this project are fictional and any resemblance to real people is entirely accidental. The startup, **AfterCast AI**, and the clients, **LuxeMart UK** and **ShopLeft Nigeria**, are entirely fictional and any resemblance to any real organization, product or entity is completely accidental.
 
